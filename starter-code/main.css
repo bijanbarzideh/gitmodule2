@@ -1,0 +1,154 @@
+/* ADD YOUR STYLES HERE */
+.pad1 img{
+    padding: 40px;
+    display: inline-block;
+}
+.pad2 img{
+    padding:20px;
+    display:inline-block;
+    vertical-align: top;
+}
+.pad2 p{
+    padding:20px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.pad2 ol{
+    padding:20px;
+    display: inline-block;
+    vertical-align:top;
+   
+}
+.pad3_box{
+height:600;
+   
+}
+.pad3 img{
+    padding-top:100px;
+    padding-bottom:100px;
+}
+.pad4_box{
+    height:300px;
+}
+.pad4{
+    padding-top:100px;
+    padding-bottom:100px;
+    
+}
+
+.list1 li{
+    display: inline;
+    list-style: none;
+    float: left;
+}
+.pink-button {
+	background: rgb(232, 130,137);
+	text-decoration: none;
+	color: #FFF;
+	border-radius: 5px;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+
+.button-1 {
+	padding: 15px 65px;
+	font-size: 1.5em;
+	display: inline-block;
+}
+
+.button-2 {
+	padding: 10px 45px;
+}
+
+.button-3 {
+	padding: 5px 10px;
+	font-size: 0.85em;
+}
+
+.button-4 {
+	padding: 10px 40px;
+}
+
+.button-5 {
+	padding: 10px 40px;
+}
+
+.button-6 {
+	padding: 10px 40px;
+}	
+
+.navipink li{
+    list-style-type: none;
+    background: rgb(232, 130,137);
+    margin: 0;
+    display: inline;
+    overflow: hidden;
+    float:left;
+    width:110px;
+    
+} 
+.navipink li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navipink li a:hover{
+ 
+    background-color: #111;
+}
+ol.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ol.pagination li {display: inline;}
+
+ol.pagination li a {
+    color: rgb(232, 130,137);
+    float: left;
+    padding: 8px 16px;
+    font-size: 20px;
+    text-decoration: underline bold;
+
+}
+
+ol.pagination li a.active {
+    color: #888;
+}
+
+ol.pagination li a:hover:not(.active) {background-color: #ddd;}
+
+.commentpic img{
+
+    padding-right: 15px;
+}
+
+.comment1 p{
+    vertical-align: middle;
+    display: table-cell;
+    
+}
+.comment1 time{
+    font-size: 12px;
+    color:#777;
+}
+.comment2{
+    height:95px;
+}
+.comment2 p{
+    vertical-align: top;
+    display: table-cell;
+}
+.comment2 time{
+    font-size: 12px;
+    color:#777;
+}
+.comment3 p{
+    vertical-align: middle;
+    display: table-cell;
+}

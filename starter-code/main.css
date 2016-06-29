@@ -166,9 +166,42 @@ ol.pagination li a:hover:not(.active) {background-color: #ddd;}
 .comment4pic{
     display: block;
     float:left;
-    padding-right: 15px;
+    padding-right: 15px; 
+    }
+ 
+ .tab{
 
+     height:30px;
+ } 
+.tab li{
+    list-style-type: none;
+    background:white;
+    margin: 0;
+    display: inline;
+    overflow: hidden;
+    float:left;
+    width:110px;
+    padding:5px;
+    
+} 
+.tab a{
+    display: block;
+    color: blue;
+    text-align: center;
+    padding:5px;
+    text-decoration: none;
+    border: 1px blue solid;
+    border-radius:5px;
+    
+    
 }
-.div4{
-    float: left;
+.tab li a:hover{
+ 
+    background-color: #111;
+}
+.tabtabtab {
+    padding:10px;
+    border:1px blue solid ;
+    
+
 }

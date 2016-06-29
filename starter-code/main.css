@@ -148,7 +148,27 @@ ol.pagination li a:hover:not(.active) {background-color: #ddd;}
     font-size: 12px;
     color:#777;
 }
-.comment3 p{
-    vertical-align: middle;
+.comment3height{
+    height:60px;
+}
+.comment3pic{
+    float:left;
+     padding-right: 15px;
+}
+.comment3{
+    vertical-align: top;
     display: table-cell;
+}
+.comment3 time{
+    font-size: 12px;
+    color:#777;
+}
+.comment4pic{
+    display: block;
+    float:left;
+    padding-right: 15px;
+
+}
+.div4{
+    float: left;
 }
